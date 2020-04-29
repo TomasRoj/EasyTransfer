@@ -15,6 +15,7 @@ Just by passing command like this: python ftp_transfer.py --server server.name.i
 --server > sets server ip
 --username > sets username for login
 --password > sets password for login
+```
 
 You can find theese (and more in the future :D) if you type command help.
 To install and run, just download the folder, locate the file on your computer and run it as usuanl with the Python 3.x.
